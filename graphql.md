@@ -2,6 +2,16 @@
 
 follow howtographql.com  tutorial
 
+https://dev-blog.apollodata.com/the-graphql-stack-how-everything-fits-together-35f8bf34f841
+
+### Why grahpql
+
+1. sql是很好的数据请求描述方式。一个定义良好的schema，完整的doc了api
+2. decouple(解耦,分离)前后端。rest里，api是endpoint based，返回的数据结构由服务器端决定，而在graphql里由前端决定，将数据结构和ui摆在一起是现代前端开发最自然的方式。
+3. 一次请求可以取回UI组件所有需要的数据，让batching和caching更方便。
+
+
+
 
 ### Schema
 
@@ -40,7 +50,16 @@ type Mutation {
 ```
 query和mutation类似函数声明，具体函数要在`resolver`里定义
 
-4. 开始搭建。  
+### resolvers
+
+`fieldName(obj, args, context, info) { result }`
+
+`obj`: 父级resolver的返回值（顶层就是rootValue），使得nesting成为可能  
+`args`: 参数  
+`context`: auth, dataloader, 数据库的值等，所有resolvers都接受的值  
+`info`: 不常用  
+
+### 开始搭建  
 `npm i express body-parser apollo-server-express graphql-tools graphql`
 
 * `express body-parser` express服务器   
@@ -49,5 +68,14 @@ query和mutation类似函数声明，具体函数要在`resolver`里定义
     * 简化graphql schema的书写
     * 提供`makeExecutableSchema`, 接受typeDefs (一个string), resolvers(objects), 生成真正可用的graphql schema。
 * `graphql`
+
+
+### Code in Scale
+* **schema**  
+* **resolvers**  
+
+* **models**  transformation and aggregation logic   
+* **connectors**  talk to RPC, REST or directly to database
+
 
 
