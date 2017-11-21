@@ -21,3 +21,8 @@
 
 往往一个细节决定了一个产品是成功失败。
 抓住越多的细节，就能抓住越多的用户。
+
+Edit: 
+1. prettier对vue的支持现在vscode和atom一样了，都是不动html部分的原则，虽然没有完美支持，但至少在vscode下不会不能用了。
+2. sarah drasner的vue-snippets很好用
+3. 可以打开多个项目了。
