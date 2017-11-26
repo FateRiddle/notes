@@ -1,7 +1,4 @@
-.list {
-  list-style: none
-  pl0 mv0
-}
+.list { list-style: none pl0 mv0 }
 
 .button {
 
