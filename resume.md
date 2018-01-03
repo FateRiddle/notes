@@ -1,5 +1,8 @@
 BRAINSTORMING:
 
+https://github.com/kentcdodds/ama/issues/47
+k.Dodds 工作选择原则
+
 who I am
 
 why I'm here (what I can bring here?)
