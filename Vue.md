@@ -13,3 +13,7 @@ yarn add -D node-sass sass-loader
 ...
 </style>
 ```
+
+18/1/9
+emit 带参数的事件
+this.$emit(event, args)
