@@ -30,4 +30,20 @@ https://egghead.io/lessons/react-render-markdown-using-react-with-react-remarkab
 
 为了 ssr + code splitting。比 next.js 更基层。
 
-###
+### react-graceful-image
+
+图片显示，一个 svg placeholder
+
+```html
+<Image
+  src="path_to_image"
+  width="250"
+  height="250"
+  style={{padding: '20px'}}
+  alt="My awesome image"
+  retry={{count: 10, delay: 2}}
+  placeholderColor="#0083FE"
+/>
+```
+
+https://github.com/linasmnew/react-graceful-image
