@@ -4,7 +4,7 @@ And when you make decisions, people have a great deal of anxiety about making de
 Did I think over this long enough? Did I take enough data into consideration?
 
 And if you think it through, you find, you could never take enough data into consideration:
-The data for a decision in any given situation if infinate
+The data for a decision in any given situation is infinate
 
 So what you do is, you go through the motions of thinking out what you will do about this
 but worries are people who think of all the variables beyond their control, what might happen
