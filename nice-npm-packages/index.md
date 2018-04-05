@@ -47,3 +47,8 @@ https://egghead.io/lessons/react-render-markdown-using-react-with-react-remarkab
 ```
 
 https://github.com/linasmnew/react-graceful-image
+
+## sharp / sharp-cli
+
+用于压缩图片适应网络格式。
+https://www.npmjs.com/package/sharp
