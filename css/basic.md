@@ -29,3 +29,12 @@ https://juejin.im/post/59b73d5bf265da064618731d
 # 布局大全，各种居中
 
 https://juejin.im/post/5aa252ac518825558001d5de
+
+18/1/8
+textarea, image 等 inline 元素排版会留一条缝，用
+
+```js
+display: block;
+//或者
+vertical-align: bottom;
+```
