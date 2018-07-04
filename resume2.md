@@ -1,19 +1,20 @@
 # 联系方式
 
-* 手机：13456854683
-* QQ/微信: 2408595586/手机号
-* Email：fateriddle@gmail.com
+- 手机：13456854683
+- QQ/微信: 2408595586/手机号
+- Email：fateriddle@gmail.com
 
 ---
 
 # 个人信息
 
-* 基本：男/1986.10
-* 学历：纽约理工大学 14 年研究生毕业
-* 专业：应用数学（浙大）/ 金融工程（纽约理工）（旁听计算机课程）
-* 工作年限：4 年
-* Github：http://github.com/fateriddle
-* 期望职位：Web 前端高级工程师
+- 基本：男/1986.10
+- 学历：纽约理工大学 14 年研究生毕业
+- 专业：应用数学（浙大）/ 金融工程（纽约理工）（旁听计算机课程）
+- 工作年限：4 年
+- Github：http://github.com/fateriddle
+- Blog: https://juejin.im/user/586089cc8d6d810065f0915e/posts
+- 期望职位：Web 前端高级工程师
 
 ---
 
@@ -67,9 +68,9 @@ Vue 写的第一个大项目。
 
 ## 开源项目
 
-* [QQ 跳棋](http://github.com/fateriddle/chinesechecker)：网页版跳棋，动画和 svg 使用
-* [digit-roll-react](http://github.com/fateriddle/digit-roll-react)：数字滚动播报 npm 组件
-* [Cowork](http://github.com/fateriddle/cowork-tachyons): 仿 Asana 的任务管理系统
+- [QQ 跳棋](http://github.com/fateriddle/chinesechecker)：网页版跳棋，动画和 svg 使用
+- [digit-roll-react](http://github.com/fateriddle/digit-roll-react)：数字滚动播报 npm 组件
+- [Cowork](http://github.com/fateriddle/cowork-tachyons): 仿 Asana 的任务管理系统
 
 ---
 
@@ -77,17 +78,17 @@ Vue 写的第一个大项目。
 
 熟练使用的技能
 
-* 前端框架：React/Vue
-* 前端工具：Sass/Prettier/ESlint/Webpack/Redux/react-router
-* 最佳实践：PRPL
-* 后端：Express/Node.js
-* 数据库相关：MSSQL/MongoDB
-* 版本管理：Git
+- 前端框架：React/Vue
+- 前端工具：Sass/Prettier/ESlint/Webpack/Redux/react-router
+- 最佳实践：PRPL
+- 后端：Express/Node.js
+- 数据库相关：MSSQL/MongoDB
+- 版本管理：Git
 
 有一定认知/感兴趣的方向
 
-* Graphql: Apollo
-* React Native
-* Koa.js
-* SVG 动画
-* Serverless
+- Graphql: Apollo
+- React Native
+- Koa.js
+- SVG 动画
+- Serverless
