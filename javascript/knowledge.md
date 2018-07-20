@@ -36,3 +36,5 @@ Object.entries(obj) // [["a":1],["b",2],["c",3]]
 Object.keys(obj) // ["a","b","c"]
 Object.values(obj) // [1,2,3]
 ```
+
+https://twitter.com/mattdesl/status/1013896537166888960 画一坨乱线

@@ -21,9 +21,9 @@ box-sizing: content-box || border-box || inherit;
 
 2.  居中的方法
 
-* flex
-* transform
-* display: table/ table-cell vertical-align
+- flex
+- transform
+- display: table/ table-cell vertical-align
 
 3.  animation & transition
 
@@ -82,8 +82,6 @@ const addLoggingToDispatch = (store, next) => {
 https://github.com/reactjs/redux/issues/1744 Dan 的回答。turns out 这里的 curry 化只是他的个人偏好而已(汗)。其实想改，最后大家意见不一而没改。
 
 ## promise
-
-
 
 ## Closure
 
